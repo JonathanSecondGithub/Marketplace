@@ -11,7 +11,7 @@ def run_discord_bot():
     intents = discord.Intents.default()
     intents.members = True
     intents.message_content = True
-    TOKEN = 'MTIxNDQ5ODI1OTI1NTQzNTI4NA.GyLrxc.IZGLxaOBPIFRO1wDbFY04XYMsvrbdlRWPV1xEU'
+    TOKEN = 'MTIxNDQ5ODI1OTI1NTQzNTI4NA.Gv6BOK.Xev_igInP3iQNhYlf0VSAROh7AxWF6jRAoQdf8'
     client = discord.Client(intents=intents)
 
     @client.event

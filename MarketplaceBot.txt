@@ -1,2 +1,1 @@
-token - MTIxNDQ5ODI1OTI1NTQzNTI4NA.GyLrxc.IZGLxaOBPIFRO1wDbFY04XYMsvrbdlRWPV1xEU
 link - https://discord.com/oauth2/authorize?client_id=1214498259255435284&permissions=28582940769527&scope=bot
